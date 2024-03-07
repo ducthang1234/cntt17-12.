@@ -1,0 +1,21 @@
+.row{
+    display :flex;
+    flex-direction: row;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.blank {
+    flex: 1px;
+}
+#menu {
+    width: 16px;
+}
+#linenl
+{
+    backgroung-color: brown;
+    padding 10px;
+    color: white;
+}

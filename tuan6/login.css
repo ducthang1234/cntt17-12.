@@ -1,0 +1,22 @@
+*{
+    color:red;
+}
+body{
+    margin: 0;
+    background-color: gray;
+    height: 100vh;
+}
+form{
+    background-color: beige;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fleld{
+    margin-top: 7px;
+    margin: 10px 0;
+}
